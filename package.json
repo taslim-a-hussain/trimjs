@@ -12,8 +12,8 @@
     "url": "git@github.tas:taslim-a-hussain/trimjs.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Taslim A Hussain",
+  "license": "MIT",
   "dependencies": {
     "esm": "^3.2.25"
   }
