@@ -1,0 +1,20 @@
+{
+  "name": "trimjs",
+  "version": "1.0.0",
+  "description": "Removes extra spaces from the string.",
+  "main": "index.js",
+  "module": "src/main.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.tas:taslim-a-hussain/trimjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25"
+  }
+}
